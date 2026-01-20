@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Welcome to GitHub classroom")
+print("Welcome to GitHub classroom!")
